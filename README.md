@@ -1,1 +1,1 @@
-:gem: <span style="color: blue; font-size: 20px; font-weight: bold">Jamie Toman</span> :gem:
+:cresent_moon: Jamie Toman :cresent_moon:
