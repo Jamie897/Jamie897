@@ -26,7 +26,7 @@ Passionate about web development and thriving in fast-paced environments! 🚀
 - Email: jamiedanielle456@gmail.com
 
 ## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamie897&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 
 
