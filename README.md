@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Jamie
 
-Passionate about web development and thriving in fast-paced environments! 🚀
+Passionate about web development and thriving in fast-paced environments! 
 
 ## 👨‍💻 About Me
 - 🎓 Currently studying [Software Engineering] at Atlas
@@ -14,7 +14,7 @@ Passionate about web development and thriving in fast-paced environments! 🚀
 - Database: [MongoDB, MySQL]
 - Tools: [Git, VSCode, etc.]
 
-## 🚀 Projects
+##  Projects
 - Toxic Flora - Take a journey to Toxic Flora and learn how deadly plants can be the most beautfil
 - Sleepy Kitty Cafe - Feeling lonely on your trip? Come to Sleepy Kitty cafe. It is an Air BNB where you can have one of our many furry residence keep you company.
 - ...
